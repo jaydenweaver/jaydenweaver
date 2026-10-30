@@ -1,5 +1,5 @@
 hi, im jayden
 
 - software engineer @ westpac
-- bachelor of it (comp sci) @ qut
+- bachelor of IT (comp sci) @ qut
 
